@@ -9,4 +9,4 @@ def ada():
     print(total_2)
     print(total_3)
     print(total_4)
-ada()
+
