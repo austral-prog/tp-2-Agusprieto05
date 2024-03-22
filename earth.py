@@ -9,4 +9,3 @@ def earth():
     result4=f"The result of {X} comes first in the dictionary than {Y} is {result}"
     print(result3)
     print(result4)
-earth()
